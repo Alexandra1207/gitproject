@@ -4,5 +4,6 @@ h1 {
 }
 div {
   background-color: white;
+  max-width: 1200px;
 }
 
